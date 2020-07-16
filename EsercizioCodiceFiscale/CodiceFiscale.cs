@@ -16,5 +16,10 @@ namespace EsercizioCodiceFiscale
         {
             InitializeComponent();
         }
+
+        private void btn_calcola_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
